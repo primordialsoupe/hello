@@ -8,7 +8,8 @@
 
  int main(int argc, char **argv) {
 
-     printf("Miguel Kennedy\n") ;
+     printf("Miguel Kennedy?\n") ;
+     printf("History\n") ;
 
      return 0;
  }
