@@ -10,6 +10,9 @@
 
      printf("Miguel Kennedy?\n") ;
      printf("History\n") ;
-
+     
+     printf("Kawry Omar!\n");
+     printf("computer scince!");
+  
      return 0;
  }
